@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "bots": "My Bots",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Hi, I'm Ldftcer",
+    "subtitle": "Telegram Bot Developer from Yerevan",
+    "description": "Creating useful and interesting Telegram bots with modern design and functionality"
+  },
+  "about": {
+    "title": "About me",
+    "name": "Ldftcer",
+    "age": "18 years old",
+    "experience": "4 years",
+    "location": "Yerevan, Armenia",
+    "description": "I'm a young developer creating innovative Telegram bots. My channel is full of interesting pictures, music, and information about me."
+  },
+  "bots": {
+    "title": "My Telegram Bots",
+    "clipSnap": {
+      "name": "ClipSnap Bot",
+      "description": "Download videos from TikTok and Instagram with one click",
+      "features": ["Fast downloading", "TikTok support", "Instagram support", "Simple interface"]
+    },
+    "melodyi": {
+      "name": "Melodyi Bot",
+      "description": "Download music from YouTube and create playlists",
+      "features": ["Inline mode", "Playlist creation", "High quality", "Fast loading"]
+    },
+    "casino": {
+      "name": "Casino BlackCat Bot",
+      "description": "Exciting casino games with multiple features",
+      "features": ["Various games", "Bonuses", "Tournaments", "Security"]
+    },
+    "sticker": {
+      "name": "Stick BlackCat Bot",
+      "description": "Create stickers for private chats and groups",
+      "features": ["3 languages", "Inline mode", "Group chats", "Private chats"]
+    },
+    "mafia": {
+      "name": "Mafia BlackCat Bot",
+      "description": "Classic Mafia game in Telegram",
+      "features": ["Multiple players", "Various roles", "Interactive gameplay"]
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "channel": "My Channel"
+  },
+  "common": {
+    "tryBot": "Try Bot",
+    "scanQR": "Scan QR Code",
+    "learnMore": "Learn More"
+  }
+} 

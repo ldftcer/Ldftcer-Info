@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Главная",
+    "about": "Обо мне",
+    "bots": "Мои боты",
+    "contact": "Контакты"
+  },
+  "hero": {
+    "title": "Привет, я Ldftcer",
+    "subtitle": "Разработчик Telegram ботов из Еревана",
+    "description": "Создаю полезные и интересные боты для Telegram с современным дизайном и функциональностью"
+  },
+  "about": {
+    "title": "Обо мне",
+    "name": "Ldftcer",
+    "age": "18 лет",
+    "experience": "4 года",
+    "location": "Ереван, Армения",
+    "description": "Я молодой разработчик, который создает инновационные Telegram боты. Мой канал полон интересных картинок, музыки и информации обо мне."
+  },
+  "bots": {
+    "title": "Мои Telegram боты",
+    "clipSnap": {
+      "name": "ClipSnap Bot",
+      "description": "Скачивайте видео из TikTok и Instagram одним кликом",
+      "features": ["Быстрое скачивание", "Поддержка TikTok", "Поддержка Instagram", "Простой интерфейс"]
+    },
+    "melodyi": {
+      "name": "Melodyi Bot",
+      "description": "Скачивайте музыку из YouTube и создавайте плейлисты",
+      "features": ["Inline режим", "Создание плейлистов", "Высокое качество", "Быстрая загрузка"]
+    },
+    "casino": {
+      "name": "Casino BlackCat Bot",
+      "description": "Увлекательные казино игры с множеством функций",
+      "features": ["Различные игры", "Бонусы", "Турниры", "Безопасность"]
+    },
+    "sticker": {
+      "name": "Stick BlackCat Bot",
+      "description": "Создавайте стикеры для личных чатов и групп",
+      "features": ["3 языка", "Inline режим", "Групповые чаты", "Личные чаты"]
+    },
+    "mafia": {
+      "name": "Mafia BlackCat Bot",
+      "description": "Классическая игра Мафия в Telegram",
+      "features": ["Множество игроков", "Различные роли", "Интерактивный геймплей"]
+    }
+  },
+  "contact": {
+    "title": "Связаться со мной",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "channel": "Мой канал"
+  },
+  "common": {
+    "tryBot": "Попробовать бота",
+    "scanQR": "Сканировать QR код",
+    "learnMore": "Узнать больше"
+  }
+} 

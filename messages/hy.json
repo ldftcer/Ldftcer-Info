@@ -1,0 +1,61 @@
+{
+  "navigation": {
+    "home": "Գլխավոր",
+    "about": "Իմ մասին",
+    "bots": "Իմ բոտերը",
+    "contact": "Կապ"
+  },
+  "hero": {
+    "title": "Բարև, ես Ldftcer եմ",
+    "subtitle": "Telegram բոտերի ծրագրավորող Երևանից",
+    "description": "Ստեղծում եմ օգտակար և հետաքրքիր բոտեր Telegram-ի համար՝ ժամանակակից դիզայնով և ֆունկցիոնալությամբ"
+  },
+  "about": {
+    "title": "Իմ մասին",
+    "name": "Ldftcer",
+    "age": "18 տարեկան",
+    "experience": "4 տարի",
+    "location": "Երևան, Հայաստան",
+    "description": "Ես երիտասարդ ծրագրավորող եմ, ով ստեղծում է նորարարական Telegram բոտեր։ Իմ ալիքը լի է հետաքրքիր նկարներով, երաժշտությամբ և ինֆորմացիայով իմ մասին։"
+  },
+  "bots": {
+    "title": "Իմ Telegram բոտերը",
+    "clipSnap": {
+      "name": "ClipSnap Bot",
+      "description": "Ներբեռնեք տեսանյութեր TikTok-ից և Instagram-ից մեկ սեղմումով",
+      "features": ["Արագ ներբեռնում", "TikTok աջակցություն", "Instagram աջակցություն", "Պարզ ինտերֆեյս"]
+    },
+    "melodyi": {
+      "name": "Melodyi Bot",
+      "description": "Ներբեռնեք երաժշտություն YouTube-ից և ստեղծեք պլեյլիստներ",
+      "features": ["Inline ռեժիմ", "Պլեյլիստի ստեղծում", "Բարձր որակ", "Արագ բեռնում"]
+    },
+    "casino": {
+      "name": "Casino BlackCat Bot",
+      "description": "Հուզիչ կազինո խաղեր բազմաթիվ ֆունկցիաներով",
+      "features": ["Տարբեր խաղեր", "Բոնուսներ", "Մրցաշարեր", "Անվտանգություն"]
+    },
+    "sticker": {
+      "name": "Stick BlackCat Bot",
+      "description": "Ստեղծեք ստիկերներ անձնական զրույցների և խմբերի համար",
+      "features": ["3 լեզու", "Inline ռեժիմ", "Խմբային զրույցներ", "Անձնական զրույցներ"]
+    },
+    "mafia": {
+      "name": "Mafia BlackCat Bot",
+      "description": "Դասական Մաֆիա խաղ Telegram-ում",
+      "features": ["Բազմաթիվ խաղացողներ", "Տարբեր դերեր", "Ինտերակտիվ գեյմփլեյ"]
+    }
+  },
+  "contact": {
+    "title": "Կապվեք ինձ հետ",
+    "telegram": "Telegram",
+    "tiktok": "TikTok",
+    "instagram": "Instagram",
+    "channel": "Իմ ալիքը"
+  },
+  "common": {
+    "tryBot": "Փորձել բոտը",
+    "scanQR": "Սկանավորել QR կոդը",
+    "learnMore": "Ավելին իմանալ"
+  }
+} 
